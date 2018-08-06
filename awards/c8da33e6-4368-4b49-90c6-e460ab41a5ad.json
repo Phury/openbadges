@@ -6,9 +6,9 @@
     "hashed": false
   },
   "issuedOn":  1533289310,
-  "badge": "https://phury.github.io/openbadges/issuer/rookie-badge-class.json",
+  "badge": "https://phury.github.io/openbadges/rookie-badge-class.json",
   "verify": {
     "type": "hosted",
-    "url": "https://phury.github.io/openbadges/issuer/awards/c8da33e6-4368-4b49-90c6-e460ab41a5ad.json"
+    "url": "https://phury.github.io/openbadges/awards/c8da33e6-4368-4b49-90c6-e460ab41a5ad.json"
   }
 }

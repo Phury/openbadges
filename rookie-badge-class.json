@@ -1,0 +1,7 @@
+{
+	"name": "Rookie Badge Issuer",
+	"description": "Issues great new Open Badges to self.",
+	"image": "https://phury.github.io/openbadges/rookie-badge.png",
+	"criteria": "https://phury.github.io/openbadges/rookie-badge-criteria.md",
+	"issuer": "https://phury.github.io/openbadges/badge-issuer.json"
+}
