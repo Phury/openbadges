@@ -1,0 +1,14 @@
+{
+  "uid": "b5e510a8-2354-41ab-ab2e-1c9ee8b4f198",
+  "recipient": {
+    "type": "email",
+    "identity": "phvdvelde@gmail.com",
+    "hashed": false
+  },
+  "issuedOn":  "06/08/2018 @ 3:38pm",
+  "badge": "https://phury.github.io/openbadges/badges/self-id/self-id-badge-class.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://phury.github.io/openbadges/awards/b5e510a8-2354-41ab-ab2e-1c9ee8b4f198.json"
+  }
+}
