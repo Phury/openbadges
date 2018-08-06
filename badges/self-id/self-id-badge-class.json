@@ -1,6 +1,6 @@
 {
-	"name": "Rookie Badge Issuer",
-	"description": "Issues great new Open Badges to self.",
+	"name": "Self-sovereign identity badge",
+	"description": "Your identity as an openbadge",
 	"image": "https://phury.github.io/openbadges/badges/self-id/self-id-badge.jpg",
 	"criteria": "https://phury.github.io/openbadges/badges/self-id/README.md",
 	"issuer": "https://phury.github.io/openbadges/badge-issuer.json"
